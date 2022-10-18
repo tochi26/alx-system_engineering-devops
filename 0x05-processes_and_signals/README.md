@@ -22,3 +22,4 @@ Project done during **Full Stack Software Engineering** at **ALX**. It aims to l
 | `100-process_and_pid_file` | Prints some messages according to sended signals |
 | `101-manage_my_process` | Init script that manages `manage_my_process` with `start`, `stop` and `restart` instructions |
 | `102-zombie.c` | C program that creates 5 zombie processes |
+
