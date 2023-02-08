@@ -25,4 +25,4 @@
 - Be brief and straight to the point, between 400 to 600 words
 
 ## Resources
-[Willochs](https://medium.com/@willochs316/elearning-outage-post-mortem-730b7be43299/)
+https://medium.com/@nzewitochukwu26/ecommerce-outage-post-mortem-34c5318109a3
